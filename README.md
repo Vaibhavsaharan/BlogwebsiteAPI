@@ -25,5 +25,6 @@ Developed CRUD API interface for blog website like tumblr using Django restframe
     * This will run the server on the localhost http://127.0.0.1:8000/
     
     * Test the api using postman
-      ![Postman ss](https://github.com/Vaibhavsaharan/vernacular/blob/main/images/postman1.png)
+   
+      ![Postman ss](https://github.com/Vaibhavsaharan/BlogwebsiteAPI/blob/main/images/1.png)
       
